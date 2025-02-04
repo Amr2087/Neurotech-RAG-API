@@ -10,6 +10,7 @@ certifi==2024.12.14
 charset-normalizer==3.4.1
 click==8.1.8
 colorama==0.4.6
+chroma
 dataclasses-json==0.6.7
 distro==1.9.0
 Flask==3.1.0
@@ -34,6 +35,7 @@ langchain-core==0.3.33
 langchain-openai==0.3.3
 langchain-pinecone==0.2.2
 langchain-tests==0.3.10
+langchain-chroma
 langchain-text-splitters==0.3.5
 langsmith==0.3.2
 MarkupSafe==3.0.2
@@ -51,6 +53,7 @@ pinecone-plugin-interface
 pluggy==1.5.0
 propcache==0.2.1
 pydantic==2.10.6
+pymupdf
 pydantic-settings==2.7.1
 pydantic_core==2.27.2
 pytest==8.3.4
